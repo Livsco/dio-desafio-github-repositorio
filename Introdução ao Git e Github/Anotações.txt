@@ -6,6 +6,7 @@ Adicionar novos arquivos no staged - git add (ponto ou asterisco)
 
 Saber o status das informações inseridas - git status
 
+Criar um commit - git commit -m "Sempre informar o que foi atualizado"
+
 Atualiza o que está no repositório local para o repositório do github na branch main (criada por nós) - git push origin
 
-Criar um commit - git commit -m "Sempre informar o que foi atualizado"
