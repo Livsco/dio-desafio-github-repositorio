@@ -1,1 +1,11 @@
 Como baixar o git https://git-scm.com/downloads
+
+Como abrir a pasta de um repositório aberto pelo github - git clone e a url (https)
+
+Adicionar novos arquivos no staged - git add (ponto ou asterisco)
+
+Saber o status das informações inseridas - git status
+
+Atualiza o que está no repositório local para o repositório do github na branch main (criada por nós) - git push origin
+
+Criar um commit - git commit -m "Sempre informar o que foi atualizado"
